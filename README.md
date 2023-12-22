@@ -1,33 +1,34 @@
-# Greetings! 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Tayyab
+=======================================================================================================================================
 
-Welcome to my GitHub profile! I'm delighted to have you here. Let me introduce myself: I'm a passionate individual with a growing interest in machine learning, bash scripting, and Linux administration. Although I'm still on my learning journey, I bring a blend of beginner and intermediate skills to my projects.
+Machine Learning Engineer
+-------------------------
 
-## About Me
+I'm Muhammad Tayyab, a passionate Computer Science student with a strong focus on Machine Learning, Data Science, Networking, Python, Cloud Computing, and Deep Learning.
 
-I'm deeply fascinated by the vast possibilities that machine learning offers, and I'm dedicated to expanding my knowledge in this field. I'm currently on the path of exploring PyTorch and TensorFlow frameworks to gain a solid understanding of their capabilities and their role in developing powerful machine learning models.
+* 🌍  I'm based in Bahawalpur, Pakistan
+* ✉️  You can contact me at [riaztayyab212@gmail.com](mailto:riaztayyab212@gmail.com)
 
-I'm also actively engaged in improving my skills in bash scripting and Linux administration. I find joy in automating tasks, optimizing workflows, and gradually mastering the command-line tools and system configurations in Linux environments.
+### Skills
 
-## Interests
 
-- **Machine Learning:** I'm enthusiastic about the potential of machine learning and its real-world applications. I'm continuously learning and experimenting with various algorithms and techniques, focusing on building a strong foundation.
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
+</p>
 
-- **Bash Scripting:** I'm actively developing my skills in bash scripting, aiming to create efficient and effective automation solutions. I find satisfaction in simplifying complex tasks and contributing to the productivity of software development processes.
 
-- **Linux Administration:** I'm currently immersing myself in the world of Linux administration. I'm embracing the challenges and intricacies of managing servers, optimizing performance, and troubleshooting issues. This journey enables me to broaden my knowledge of Linux systems and gain practical experience.
+### Socials
 
-## Projects
+<p align="left"> <a href="https://www.facebook.com/Muhammad Tayyab Riaz Chadhar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Tayyab-R" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/muhammad-tayyab-machine-learnging-engineer/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/tayyab_ml" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-As I continue to progress on my learning journey, I'm in the process of working on personal projects that will demonstrate my growing skills. I believe that practical applications are invaluable for solidifying knowledge, and I'm excited to embark on these projects in the near future.
+### Badges
 
-## Let's Connect
+<b>My GitHub Stats</b>
 
-I'm always eager to connect with fellow learners, enthusiasts, and professionals in the machine learning, bash scripting, and Linux administration domains. If you're interested in exchanging ideas, sharing resources, or collaborating on projects, please feel free to reach out to me via [email](mailto:riaztayyab212@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-tayyab-26b359208/) and  [Twitter](https://twitter.com/tech_tayyab)
-. Let's support each other on our learning journeys!
+<a href="http://www.github.com/Tayyab-R"><img src="https://github-readme-stats.vercel.app/api?username=Tayyab-R&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Tayyab-R's GitHub stats" /></a>
 
-Thank you for visiting my profile, and I look forward to connecting with you. Together, let's embrace the joy of learning and discovery in the world of technology! Happy coding! 😊
+<a href="http://www.github.com/Tayyab-R"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tayyab-R&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<!---
-Tayyab-R/Tayyab-R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="http://www.github.com/Tayyab-R"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Tayyab-R&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/Tayyab-R" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayyab-R&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
